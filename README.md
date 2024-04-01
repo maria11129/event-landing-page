@@ -1,1 +1,1 @@
-an event landing page for OMC.
+An event landing page for OMC.
